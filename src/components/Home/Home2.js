@@ -42,7 +42,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js,Next.js,Vue.js,Nuxt.js, and Express.js </b>
+                <b className="purple"> React.js, Next.js, Vue.js ,Nuxt.js, and Express.js </b>
               </i>
             </p>
           </Col>
